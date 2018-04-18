@@ -20,3 +20,6 @@ in a 3x3 array
     * Medium difficulty: the sum is close to zero
     * Hard: the sum is -3 (computer wins)
 - Test cases
+
+## Optional
+Check out my other project [tic-tac-toe-angular](https://github.com/karadalex/tic-tac-toe-angular) with similar algorithm, but richer UI, made with Angular 5 (more than 2 hours of coding).
